@@ -62,6 +62,7 @@ def rootPage() {
 			}
 
 			section {
+				mode(title: "Set for specific mode(s)")
 				// TODO: fancy label
 				label(title: "Label this SmartApp", required: false, defaultValue: "")
 			}
